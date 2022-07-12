@@ -1,5 +1,5 @@
 {
-	"Version": "60.0.0",
+	"Version": "61.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -31,7 +31,7 @@
 	      "TYPE": "premium",
 	      "FLAG": "br.png",
 	      "ServerIP": "sp.kspeed.xyz",
-	      "CheckUser": "http://18.230.195.133:8080/checkUser",
+	      "CheckUser": "http://150.230.65.162:8080/checkUser",
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
