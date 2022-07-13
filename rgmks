@@ -1,5 +1,5 @@
 {
-	"Version": "61.0.0",
+	"Version": "62.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -30,8 +30,34 @@
          "Name": "RGMKS NET BR2",
 	      "TYPE": "premium",
 	      "FLAG": "br.png",
-	      "ServerIP": "sp.kspeed.xyz",
+	      "ServerIP": "02.rgmks.tech",
 	      "CheckUser": "http://150.230.65.162:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""   
+        },
+	
+	 {
+        
+         "Name": "RGMKS NET BR3",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "03.rgmks.tech",
+	      "CheckUser": "http://152.70.219.44:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""   
+        },
+	
+	 {
+        
+         "Name": "RGMKS NET BR4",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "04.rgmks.tech",
+	      "CheckUser": "http://168.138.151.172:8080/checkUser",
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
