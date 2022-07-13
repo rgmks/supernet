@@ -77,6 +77,32 @@
 	      "PASS": ""   
         },
 
+
+	{
+        
+         "Name": "RGMKS NET BR6",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "06.rgmks.tech",
+	      "CheckUser": "http://20.197.251.58:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""   
+        },
+	
+	{
+        
+         "Name": "RGMKS NET BR7",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "07.rgmks.tech",
+	      "CheckUser": "http://18.130.150.51:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""   
+        },
 	   ],
 	 "Networks": [
     {
