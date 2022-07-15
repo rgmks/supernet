@@ -1,5 +1,5 @@
 {
-	"Version": "67.0.0",
+	"Version": "70.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -70,7 +70,7 @@
 	      "TYPE": "premium",
 	      "FLAG": "br.png",
 	      "ServerIP": "05.rgmks.tech",
-	      "CheckUser": "http://20.226.120.25:8080/checkUser",
+	      "CheckUser": "http://140.238.182.39:8080/checkUser",
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
