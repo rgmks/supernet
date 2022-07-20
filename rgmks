@@ -1,5 +1,5 @@
 {
-	"Version": "82.0.0",
+	"Version": "83.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -282,15 +282,14 @@
 	    {
 	
 
-	
-	      "Name": "Oi 1",
-	      "FLAG": "oi",
-	      "Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-	      "SNI": "www.hbogo.com.br",
-	      "TlsIP": "104.16.51.91",
-	      "ProxyIP": "",
-	      "ProxyPort": "",
-	      "Info": "Tlsws"
+	"Name": "Oi 1",
+   "FLAG": "oi",
+   "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+   "SNI": "oii.gdmhost.ga",
+   "TlsIP": "www.hbogo.com.br",
+   "ProxyIP": "www.hbogo.com.br",
+   "ProxyPort": "80",
+   "Info": "proxy"
 	    },
 	    {
 	
