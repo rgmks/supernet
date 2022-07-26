@@ -1,5 +1,5 @@
 {
-	"Version": "88.0.0",
+	"Version": "90.0.0",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -98,6 +98,19 @@
 	      "FLAG": "br.png",
 	      "ServerIP": "07.rgmks.tech",
 	      "CheckUser": "http://18.230.150.51:8080/checkUser",
+	      "ServerPort": "22",
+	      "SSLPort": "443",
+	      "USER": "",
+	      "PASS": ""   
+        	},
+		
+		{
+        
+         "Name": "RGMKS NET BR8",
+	      "TYPE": "premium",
+	      "FLAG": "br.png",
+	      "ServerIP": "08.rgmks.tech",
+	      "CheckUser": "http://144.22.245.196:8080/checkUser",
 	      "ServerPort": "22",
 	      "SSLPort": "443",
 	      "USER": "",
