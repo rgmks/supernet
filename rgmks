@@ -1,5 +1,5 @@
 {
-	"Version": "99.0.3",
+	"Version": "99.0.4",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -121,7 +121,7 @@
   ],
   	  "Networks": [
 	     {
-	        "Name": "Vivo 1",
+	        "Name": "Vivo SERVER 1",
         "FLAG": "vivo",
        "Payload": "GET / HTTP/1.1[crlf]Host:ks1.kspeed.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -131,7 +131,7 @@
        "Info": "Proxy"
 	        },
 	    {
-	          "Name": "Vivo 2",
+	          "Name": "Vivo SERVER 2",
         "FLAG": "vivo",
        "Payload": "GET / HTTP/1.1[crlf]Host:ks2.rgmksnet.online [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
@@ -141,9 +141,58 @@
        "Info": "Proxy"
 	      
 	        },
+		
+		 {
+	          "Name": "Vivo SERVER 3",
+        "FLAG": "vivo",
+       "Payload": "GET / HTTP/1.1[crlf]Host:ks3.rgmks3.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "",
+       "TlsIP": "",
+       "ProxyIP": "recarga.vivo.com.br",
+       "ProxyPort": "80",
+       "Info": "Proxy"
+	      
+	        },
+		
+		 {
+	          "Name": "VIVO SERVER 4",
+        "FLAG": "vivo",
+       "Payload": "GET / HTTP/1.1[crlf]Host:ks4.rgmks4.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "",
+       "TlsIP": "",
+       "ProxyIP": "recarga.vivo.com.br",
+       "ProxyPort": "80",
+       "Info": "Proxy"
+	      
+	        },
+		
+		 {
+	          "Name": "Vivo SERVER 5",
+        "FLAG": "vivo",
+       "Payload": "GET / HTTP/1.1[crlf]Host:ks5.rgmk5.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "",
+       "TlsIP": "",
+       "ProxyIP": "recarga.vivo.com.br",
+       "ProxyPort": "80",
+       "Info": "Proxy"
+	      
+	        },
+		
+		 {
+	          "Name": "VIVO SERVER 8",
+        "FLAG": "vivo",
+       "Payload": "GET / HTTP/1.1[crlf]Host:ks8.rgmk8.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "",
+       "TlsIP": "",
+       "ProxyIP": "recarga.vivo.com.br",
+       "ProxyPort": "80",
+       "Info": "Proxy"
+	      
+	        },
+		
 	    {
 		  
-	         "Name": "Vivo 3",
+	         "Name": "Vivo 1",
 	       "FLAG": "vivo",
 	      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
 	      "SNI": "bam.nr-data.net",
@@ -155,7 +204,7 @@
 	        },
 	    {
 		  
-	        "Name": "Vivo 4",
+	        "Name": "Vivo 2",
 	     	"FLAG": "vivo", 
 		"Payload": "GET wss://carrinho-pos-familia.vivo.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]", 
 		"SNI": "carrinho-pos-familia.vivo.com.br", 
@@ -167,7 +216,7 @@
 	        },
 	    {
 		  
-	        "Name": "Vivo 5",
+	        "Name": "Vivo 3",
 	      "FLAG": "vivo",
 	   "Payload": "GET wss://cdnjs.cloudflare.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
 	   "SNI": "cdnjs.cloudflare.com",
@@ -177,7 +226,7 @@
 	   "Info": "Tlsws"
 	    },
 	    {
-	        "Name": "VIVO 6",
+	        "Name": "VIVO 4",
 	    "FLAG": "vivo",
 	   "Payload": "GET wss://beneficios.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf:]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
 	   "SNI": "beneficios.vivo.com.br",
@@ -188,7 +237,7 @@
 	    },
 	    {  
 	      
-	        "Name": "Vivo 7",
+	        "Name": "Vivo 5",
 	     "FLAG": "vivo",
 	      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
 	      "SNI": "support.deezer.com",
@@ -203,7 +252,7 @@
 	    
 	     {  
 	      
-	        "Name": "Vivo 8",
+	        "Name": "Vivo 6",
 	     "FLAG": "vivo",
 	      "Payload": "GET wss://www.xvideos.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
 	      "SNI": "www.xvideos.com",
@@ -213,19 +262,11 @@
 	      "Info": "Tlsws"
 	      
 	    },
-{
-"Name": "Vivo 9",
-        "FLAG": "vivo",
-       "Payload": "GET / HTTP/1.1[crlf]Host:ks8.rgmks8.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-       "SNI": "",
-       "TlsIP": "",
-       "ProxyIP": "recarga.vivo.com.br",
-       "ProxyPort": "80",
-       "Info": "Proxy" },
+
 
 {  
 	      
-	        "Name": "Vivo 10",
+	        "Name": "Vivo 7",
 	     "FLAG": "vivo",
 	      "Payload": "GET wss://digeverse.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
 	      "SNI": "digeverse.com",
@@ -236,7 +277,7 @@
 	      
 	    },
 {
-	        "Name": "Vivo 11",
+	        "Name": "Vivo 8",
 	      "FLAG": "vivo",
 	      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 	      "SNI": "",
