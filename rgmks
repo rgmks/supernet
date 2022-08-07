@@ -1,5 +1,5 @@
 {
-	"Version": "99.0.4",
+	"Version": "99.0.5",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -181,7 +181,7 @@
 		 {
 	          "Name": "VIVO SERVER 8",
         "FLAG": "vivo",
-       "Payload": "GET / HTTP/1.1[crlf]Host:ks8.rgmk8.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "Payload": "GET / HTTP/1.1[crlf]Host:ks8.rgmks8.tech [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
        "SNI": "",
        "TlsIP": "",
        "ProxyIP": "recarga.vivo.com.br",
