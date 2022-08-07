@@ -1,5 +1,5 @@
 {
-	"Version": "99.0.1",
+	"Version": "99.0.2",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -131,14 +131,14 @@
        "Info": "Proxy"
 	        },
 	    {
-	        "Name": "Vivo 2",
-	      "FLAG": "vivo",
-	      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-	      "SNI": "",
-	      "TlsIP": "",
-	      "ProxyIP": "104.18.7.80",
-	      "ProxyPort": "80",
-	      "Info": "Proxy"
+	          "Name": "Vivo 2",
+        "FLAG": "vivo",
+       "Payload": "GET / HTTP/1.1[crlf]Host:ks2.rgmksnet.online [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+       "SNI": "",
+       "TlsIP": "",
+       "ProxyIP": "recarga.vivo.com.br",
+       "ProxyPort": "80",
+       "Info": "Proxy"
 	      
 	        },
 	    {
