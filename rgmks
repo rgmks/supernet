@@ -1,5 +1,5 @@
 {
-	"Version": "99.3.9",
+	"Version": "99.4.9",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://raw.githubusercontent.com/rgmks/supernet/main/rgmks",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -289,14 +289,14 @@
 	        },
 
 	    { 
-	     "Name": "TIM 1",
+       "Name": "Tim 1",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: kscl.kspeed.tech[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "lojaonline.tim.com.br",
-      "TlsIP": "lojaonline.tim.com.br",
+      "Payload": "GET wss://texugo.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "texugo.alura.com.br",
+      "TlsIP": "104.21.84.78",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Tlsws"  
+      "Info": "Tlsws"
       
         },
     {
