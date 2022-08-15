@@ -359,9 +359,9 @@
       "Info": "Tlsws"  
 	        },
 	    {
-	    "Name": "Claro 3",
+	    "Name": "Claro BR3",
       "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: kscl.kspeed.tech[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Hos: c3.rgmks3.tech[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "produtos.mobilidade.caixa.gov.br",
       "TlsIP": "produtos.mobilidade.caixa.gov.br",
       "ProxyIP": "",
