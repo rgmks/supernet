@@ -1,5 +1,5 @@
 {
-	"Version": "103.0.0",
+	"Version": "99.9.9",
 	  "ReleaseNotes": "Nova Atualização Disponível",
 	  "UrlUpdate": "https://bitbin.it/Ceja2qMi/raw/",
 	  "Sms": " https://paste.anasor.com/paste.php?raw&id=11222",
@@ -302,11 +302,11 @@
     {
 	  
         
-        "Name": "Tim 2",
+ 	      "Name": "Tim 2",
       "FLAG": "tim",
-      "Payload": "GET wss://texugo.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "texugo.alura.com.br",
-      "TlsIP": "104.21.84.78",
+      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "bam.nr-data.net",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -314,28 +314,27 @@
         },
     {
 	  
-        "Name": "TIM 3",
-      "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cl.metsanttresh.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "lojaonline.tim.com.br",
-      "TlsIP": "lojaonline.tim.com.br",
-      "ProxyIP": "lojaonline.tim.com.br",
-      "ProxyPort": "443",
-      "Info": "Tlsws"  
+	      "Name": "Tim 3",
+      "FLAG": "tim",
+      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "bam.nr-data.net",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
 	      
 	        },
 	    {
 		  
 		  
-	        "Name": "TIM 4",
-      "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cl.metsanttresh.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "lojaonline.tim.com.br",
-      "TlsIP": "lojaonline.tim.com.br",
-      "ProxyIP": "lojaonline.tim.com.br",
-      "ProxyPort": "443",
-      "Info": "Tlsws"  
-	      "Info": "Tlsws"
+       "Name": "Tim 4",
+      "FLAG": "tim",
+      "Payload": "GET wss://texugo.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "texugo.alura.com.br",
+      "TlsIP": "104.21.84.78",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
 		  	 
 	    },
 	    {
@@ -386,7 +385,7 @@
 	
 
 	      "Name": "Oi 2",
-      "FLAG": "tim",
+      "FLAG": "oi",
       "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "bam.nr-data.net",
       "TlsIP": "bam.nr-data.net",
